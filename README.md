@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte do bootcamp "Do Prompt ao Agente" da DIO, com o objetivo de criar um sistema baseado em prompts que funcione como um agente inteligente de apoio à decisão de carreira.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MCLG1661/seu-repositorio)
-![GitHub last commit](https://img.shields.io/github/last-commit/MCLG1661/seu-repositorio)
-![GitHub license](https://img.shields.io/github/license/MCLG1661/seu-repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
+![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
+![GitHub license](https://img.shields.io/github/license/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
 
 ---
 
