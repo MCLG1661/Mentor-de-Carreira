@@ -102,9 +102,9 @@ A separação em dois agentes permite maior modularidade, reutilização e clare
 
 ---
 
-## 🧩 Estrutura dos Agentes
+## Estrutura dos Agentes
 
-### 🔹 Agente 1 — Entrevistador
+### 🧩 Agente 1 — Entrevistador
 
 Responsável por coletar informações do usuário de forma estruturada.
 
@@ -129,7 +129,7 @@ Objetivo : transição de carreira
 Áreas de interesse : IA
 Experiência prévia : cursos em plataformas online
 
-### 🔹 Agente 2 — Planejador
+### 🧠 Agente 2 — Planejador
 
 Responsável por interpretar o perfil e gerar recomendações.
 
