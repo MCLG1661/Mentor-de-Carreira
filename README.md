@@ -147,6 +147,7 @@ Responsável por interpretar o perfil e gerar recomendações.
 
 ### 🔄 Fluxo do Sistema
 
+```
 Usuário
 ↓
 Agente 1 (Entrevista)
@@ -156,6 +157,7 @@ Perfil estruturado
 Agente 2 (Planejamento)
 ↓
 Plano de carreira personalizado
+```
 
 ### Lógica de Decisão
 
