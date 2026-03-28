@@ -220,6 +220,7 @@ As respostas são estruturadas para facilitar :
 
 ## 📊 Conclusão
 
+Este projeto demonstra como a engenharia de prompts pode ser utilizada para criar soluções práticas e orientadas a decisão, simulando o comportamento de um agente inteligente.
 A arquitetura foi pensada para simular um processo real de mentoria, utilizando princípios de engenharia de prompts para criar um sistema modular, escalável e orientado à decisão.
 
 ---
