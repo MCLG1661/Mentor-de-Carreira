@@ -1,6 +1,7 @@
 # 🤖 Copilot - Prompts IA Mentor de Carreira em Tecnologia 
 
 Este projeto foi desenvolvido como parte do bootcamp "Do Prompt ao Agente" da DIO, com o objetivo de criar um sistema baseado em prompts que funcione como um agente inteligente de apoio à decisão de carreira.
+Os agentes foram projetados de forma modular, permitindo reutilização e adaptação para diferentes perfis de usuários.
 
 ![DIO](https://img.shields.io/badge/DIO-Bootcamp-blueviolet)
 
