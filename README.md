@@ -45,7 +45,7 @@ Este projeto vai além de um prompt simples :
 - Planejamento de carreira em tecnologia
 - GitHub como portfólio
 
-# Estrutura do Projeto
+# 📂 Estrutura do Projeto
 
 ```
 ia-mentor-carreira/
