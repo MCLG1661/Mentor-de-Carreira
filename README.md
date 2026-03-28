@@ -2,13 +2,14 @@
 
 Este projeto foi desenvolvido como parte do bootcamp "Do Prompt ao Agente" da DIO, com o objetivo de criar um sistema baseado em prompts que funcione como um agente inteligente de apoio à decisão de carreira.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
-![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
-![GitHub license](https://img.shields.io/github/license/https://github.com/MCLG1661/https://github.com/MCLG1661/Copilot-Prompts)
+![DIO](https://img.shields.io/badge/DIO-Bootcamp-blueviolet)
 
 ---
 
 # 🎯 Objetivo
+
+![Project](https://img.shields.io/badge/Project-AI%20Career%20Mentor-black)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Criar um mentor de carreira em tecnologia capaz de :
 
@@ -31,6 +32,11 @@ Este projeto vai além de um prompt simples :
  ---
 
  # 🛠️ Tecnologias e Conceitos Utilizados
+
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM-purple)
 
 - Engenharia de Prompt
 - Estruturação de agentes conversacionais
