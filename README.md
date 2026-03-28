@@ -25,12 +25,13 @@ Criar um mentor de carreira em tecnologia capaz de :
 
 Este projeto vai além de um prompt simples :
 
+```
 ✔️ Possui fluxo estruturado
 ✔️ Simula um processo real de mentoria
 ✔️ Gera valor prático (plano acionável)
 ✔️ Pode ser expandido para um agente automatizado
-
- ---
+```
+---
 
  # 🛠️ Tecnologias e Conceitos Utilizados
 
