@@ -66,26 +66,9 @@ O sistema foi dividido em dois agentes complementares:
 
 Responsável por coletar informações do usuário através de perguntas estratégicas.
 
-Funções :
-
-- Identificar interesses (dados, código, pessoas)
-- Avaliar nível de experiência
-- Entender disponibilidade de estudo
-- Mapear objetivos de carreira
-- Levantar background prévio
-
 🧠 Agente 2 — Planejador de Carreira
 
 Responsável por analisar as respostas e gerar recomendações personalizadas.
-
-Saídas :
-
-- Top 3 carreiras recomendadas
-- Análise de aderência ao perfil
-- Roadmap de 120 dias
-- Mapa de habilidades (core + complementares)
-- Sugestão de projeto de portfólio
-- Preparação para entrevistas
 
 ---
 
