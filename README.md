@@ -47,6 +47,19 @@ Este projeto vai além de um prompt simples :
 
 # Estrutura do Projeto
 
+```
+ia-mentor-carreira/
+│
+├── prompts/
+│   ├── agente-entrevistador.txt
+│   └── agente-planejador.txt
+│
+├── examples/
+│   └── exemplo-uso.md
+│
+└── README.md
+``` 
+
 O sistema foi dividido em dois agentes complementares:
 
 🧩 Agente 1 — Entrevistador de Carreira
@@ -74,6 +87,24 @@ Saídas :
 - Sugestão de projeto de portfólio
 - Preparação para entrevistas
 
+---
+
+# Exemplo-uso.md
+
+### Entrada (resumida)
+
+- Interesse: dados
+- Nível: iniciante/intermediário
+- Tempo: 4h/semana
+- Objetivo: transição de carreira
+- Interesse: IA
+
+### Saída esperada
+
+- Cientista de Dados
+- Engenheiro de Machine Learning
+- Analista de Dados
+ 
 ---
 
 # 📌 Possíveis Evoluções
