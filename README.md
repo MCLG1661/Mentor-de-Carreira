@@ -104,7 +104,138 @@ Saídas :
 - Cientista de Dados
 - Engenheiro de Machine Learning
 - Analista de Dados
- 
+
+---
+
+# 📄 docs/arquitetura.md
+
+Este projeto foi estruturado como um sistema de agentes em duas etapas, simulando um fluxo real de mentoria de carreira :
+
+1. Coleta de informações (diagnóstico)
+2. Análise e recomendação (planejamento)
+
+A separação em dois agentes permite maior modularidade, reutilização e clareza na lógica de decisão.
+
+---
+
+## 🧩 Estrutura dos Agentes
+
+### 🔹 Agente 1 — Entrevistador
+
+Responsável por coletar informações do usuário de forma estruturada.
+
+**Função principal :**
+- Extrair dados relevantes para análise de carreira
+
+**Tipo de processamento :**
+- Input guiado (perguntas sequenciais)
+
+**Saída :**
+- Perfil estruturado do usuário
+
+Exemplo de saída :
+
+PERFIL DO USUÁRIO:
+
+Interesse principal : dados
+Nível atual : iniciante/intermediário
+Disponibilidade : 4h/semana
+Preferência : dados
+Objetivo : transição de carreira
+Áreas de interesse : IA
+Experiência prévia : cursos em plataformas online
+
+### 🔹 Agente 2 — Planejador
+
+Responsável por interpretar o perfil e gerar recomendações.
+
+**Função principal :**
+- Transformar dados em decisão
+
+**Tipo de processamento :**
+- Análise + geração de conteúdo estruturado
+
+**Saída :**
+- Ranking de carreiras
+- Roadmap de aprendizado
+- Projeto de portfólio
+- Preparação para entrevistas
+
+### 🔄 Fluxo do Sistema
+
+Usuário
+↓
+Agente 1 (Entrevista)
+↓
+Perfil estruturado
+↓
+Agente 2 (Planejamento)
+↓
+Plano de carreira personalizado
+
+### Lógica de Decisão
+
+O sistema utiliza regras implícitas baseadas em :
+
+- Preferência do usuário (dados, código, pessoas)
+- Interesse em áreas específicas (ex: IA)
+- Tempo disponível
+- Objetivo de carreira
+
+### Exemplo :
+
+Se:
+- Interesse = dados
+- Interesse adicional = IA
+
+Então:
+→ Priorizar carreiras como:
+- Cientista de Dados
+- Engenheiro de Machine Learning
+
+### ⚙️ Princípios de Design
+
+### 1. Separação de responsabilidades
+
+Cada agente possui uma função clara :
+
+- Um coleta dados
+- Outro toma decisões
+
+### 2. Reutilização
+Os agentes podem ser usados separadamente em outros contextos.
+
+### 3. Escalabilidade
+
+A arquitetura permite :
+
+- Adição de novos agentes (ex: avaliador técnico)
+- Integração com APIs de IA
+- Automação completa do fluxo
+
+### 4. Clareza de saída
+
+As respostas são estruturadas para facilitar :
+
+- leitura
+- interpretação
+- tomada de decisão
+
+---
+
+## 🚀 Possíveis Evoluções
+
+- Transformar em aplicação com interface (Streamlit)
+- Automatizar fluxo entre agentes
+- Integrar com APIs de LLM (ex: OpenAI)
+- Adicionar scoring automático de perfil
+
+---
+
+## 📊 Conclusão
+
+A arquitetura foi pensada para simular um processo real de mentoria, utilizando princípios de engenharia de prompts para criar um sistema modular, escalável e orientado à decisão.
+
 ---
 
 # 📌 Possíveis Evoluções
