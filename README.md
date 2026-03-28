@@ -235,5 +235,7 @@ A arquitetura foi pensada para simular um processo real de mentoria, utilizando 
 
 # 👨‍💻 Autor
 
-Marcus
-Profissional com atuação em Marketing e Data Science, com foco em transição para áreas de dados e inteligência artificial.
+Marcus Guedes : 
+
+Profissional com atuação em Marketing e Data Science, com foco em transição para áreas de dados e inteligência artificial
+GitHub: https://github.com/MCLG1661 LinkedIn: https://www.linkedin.com/in/marcusguedes
