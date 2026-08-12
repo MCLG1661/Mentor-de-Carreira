@@ -288,8 +288,8 @@ Copilot-Prompts/
 │   ├── AGENTE-1-Entrevistador-de-Carreira.md
 │   └── AGENTE-2-Planejador-de-Carreira.md
 │
-├── AGENTE 1 - Entrevistador de Carreira em Tecnologia.docx
-├── AGENTE 2 - Planejador de Carreira em Tecnologia.docx
+├── imagem-da-arquitetura.png
+│
 └── README.md
 ```
 
