@@ -97,57 +97,42 @@ Responsável por analisar o perfil e construir recomendações, roadmap e estrat
 
 ## Arquitetura dos Agentes
 
+A solução foi estruturada em dois agentes especializados, cada um responsável por uma etapa específica do processo de mentoria.
+
 🧩 Agente 1 — Entrevistador de Carreira
 
-Responsável pela etapa de **descoberta e diagnóstico**.
+Responsável pela etapa de **descoberta e diagnóstico do perfil profissional**.
 
-O agente conduz uma entrevista estruturada para compreender aspectos relevantes
-do perfil profissional.
+O agente conduz uma entrevista estruturada para identificar:
 
-Informações investigadas
-
-- Área de interesse
+- Interesses profissionais
 - Experiência atual
-- Conhecimentos técnicos
-- Preferências profissionais
+- Conhecimentos e preferências
 - Disponibilidade para estudo
 - Objetivos de carreira
-- Interesse em áreas específicas
+- Áreas de interesse
 
-Entrada
+Ao final, gera um **perfil estruturado** que será utilizado pelo segundo agente.
 
-Respostas fornecidas pelo usuário durante a entrevista.
-
-Saída
-
-Um **perfil estruturado**, preparado para ser utilizado pelo segundo agente.
+➡️ [**Ver Prompt Completo do Agente Entrevistador**](prompts/AGENTE-1-Entrevistador-de-Carreira.md)
 
 ---
 
-## 🧠 Agente 2 — Planejador de Carreira
+🧠 Agente 2 — Planejador de Carreira
 
-Responsável por transformar o perfil produzido pelo primeiro agente em um
-**plano de desenvolvimento profissional**.
+Responsável por transformar o perfil estruturado em um **plano de desenvolvimento profissional**.
 
-Processamento
+O agente:
 
-O agente considera informações como:
+- Identifica as três carreiras mais adequadas
+- Prioriza as possibilidades
+- Analisa vantagens e desafios
+- Detalha a carreira Top 1
+- Estrutura um roadmap de 120 dias
+- Sugere um projeto de portfólio
+- Apoia a preparação para entrevistas
 
-- Preferências
-- Experiência
-- Objetivos
-- Disponibilidade
-- Áreas de interesse
-
-Saída esperada
-
-O planejamento pode incluir:
-
-- Ranking de possíveis carreiras
-- Recomendações de aprendizado
-- Roadmap
-- Sugestões de projetos para portfólio
-- Preparação para entrevistas
+➡️ [**Ver Prompt Completo do Agente Planejador**](prompts/AGENTE-2-Planejador-de-Carreira.md)
 
 ---
 
