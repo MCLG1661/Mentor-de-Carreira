@@ -81,20 +81,6 @@ responsável pela geração do plano de desenvolvimento profissional.
 
 ---
 
-## Explore os Agentes
-
-🧩 Agente 1 — Entrevistador de Carreira
-Responsável pela coleta estruturada das informações e construção do perfil profissional.
-
-➡️ [**Ver Prompt do Agente Entrevistador**](prompts/AGENTE-1-Entrevistador-de-Carreira.md)
-
-🧠 Agente 2 — Planejador de Carreira
-Responsável por analisar o perfil e construir recomendações, roadmap e estratégia de desenvolvimento.
-
-➡️ [**Ver Prompt do Agente Planejador**](prompts/AGENTE-2-Planejador-de-Carreira.md)
-
----
-
 ## Arquitetura dos Agentes
 
 A solução foi estruturada em dois agentes especializados, cada um responsável por uma etapa específica do processo de mentoria.
@@ -116,8 +102,6 @@ Ao final, gera um **perfil estruturado** que será utilizado pelo segundo agente
 
 ➡️ [**Ver Prompt Completo do Agente Entrevistador**](prompts/AGENTE-1-Entrevistador-de-Carreira.md)
 
----
-
 🧠 Agente 2 — Planejador de Carreira
 
 Responsável por transformar o perfil estruturado em um **plano de desenvolvimento profissional**.
@@ -133,52 +117,6 @@ O agente:
 - Apoia a preparação para entrevistas
 
 ➡️ [**Ver Prompt Completo do Agente Planejador**](prompts/AGENTE-2-Planejador-de-Carreira.md)
-
----
-
-## 🔄 Fluxo Multiagente
-
-```text
-┌──────────────────────────────┐
-│           USUÁRIO            │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│    AGENTE ENTREVISTADOR      │
-│                              │
-│ • Interesses                 │
-│ • Experiência                │
-│ • Objetivos                  │
-│ • Disponibilidade            │
-│ • Preferências               │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      PERFIL ESTRUTURADO      │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      AGENTE PLANEJADOR       │
-│                              │
-│ • Analisa perfil             │
-│ • Identifica caminhos        │
-│ • Prioriza possibilidades    │
-│ • Estrutura ações            │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      PLANO DE CARREIRA       │
-│                              │
-│ • Carreiras sugeridas        │
-│ • Roadmap                    │
-│ • Projetos                   │
-│ • Próximos passos            │
-└──────────────────────────────┘
-```
 
 ---
 
