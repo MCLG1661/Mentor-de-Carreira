@@ -1,4 +1,4 @@
-# Mentor de Carreira em Tecnologia - Baseado em Dois Agentes Especializados
+# Mentor de Carreira em Tecnologia - Baseado em 2 Agentes Especializados
 
 *Mentor de Carreira em Tecnologia baseado em dois agentes especializados*
 
