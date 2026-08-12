@@ -81,6 +81,20 @@ responsável pela geração do plano de desenvolvimento profissional.
 
 ---
 
+## Explore os Agentes
+
+🧩 Agente 1 — Entrevistador de Carreira
+Responsável pela coleta estruturada das informações e construção do perfil profissional.
+
+➡️ [**Ver Prompt do Agente Entrevistador**](prompts/AGENTE-1-Entrevistador-de-Carreira.md)
+
+🧠 Agente 2 — Planejador de Carreira
+Responsável por analisar o perfil e construir recomendações, roadmap e estratégia de desenvolvimento.
+
+➡️ [**Ver Prompt do Agente Planejador**](prompts/AGENTE-2-Planejador-de-Carreira.md)
+
+---
+
 ## Arquitetura dos Agentes
 
 🧩 Agente 1 — Entrevistador de Carreira
