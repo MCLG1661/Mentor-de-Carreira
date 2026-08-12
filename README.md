@@ -276,8 +276,7 @@ Copilot-Prompts/
 │
 ├── AGENTE 1 - Entrevistador de Carreira em Tecnologia.docx
 ├── AGENTE 2 - Planejador de Carreira em Tecnologia.docx
-├── README.md
-└── ...
+└── README.md
 ```
 
 Agente 1
