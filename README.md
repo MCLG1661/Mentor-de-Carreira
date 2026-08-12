@@ -271,11 +271,13 @@ possível caminho de desenvolvimento.
 Copilot-Prompts/
 │
 ├── prompts/
-│   └── AGENTE-1-Entrevistador-de-Carreira.md
+│   ├── AGENTE-1-Entrevistador-de-Carreira.md
+│   └── AGENTE-2-Planejador-de-Carreira.md
 │
 ├── AGENTE 1 - Entrevistador de Carreira em Tecnologia.docx
 ├── AGENTE 2 - Planejador de Carreira em Tecnologia.docx
-└── README.md
+├── README.md
+└── ...
 ```
 
 Agente 1
