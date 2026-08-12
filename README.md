@@ -81,7 +81,7 @@ responsável pela geração do plano de desenvolvimento profissional.
 
 ---
 
-# Arquitetura dos Agentes
+## Arquitetura dos Agentes
 
 🧩 Agente 1 — Entrevistador de Carreira
 
