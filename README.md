@@ -399,4 +399,3 @@ LinkedIn: Marcus Guedes
 
 🤖 **Do prompt ao agente: estruturando IA Generativa para apoiar decisões de carreira.**
 
-Essa versão também corrige a estrutura de arquivos documentada no R
