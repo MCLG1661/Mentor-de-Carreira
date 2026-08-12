@@ -68,6 +68,19 @@ e saída claramente definidos**.
 
 ---
 
+## 🏗️ Arquitetura Visual
+
+A arquitetura organiza o processo de mentoria em dois agentes especializados,
+com responsabilidades distintas e transferência estruturada de contexto entre as etapas.
+
+<img width="800" height="400" alt="ChatGPT Image 12 de ago  de 2026, 18_46_24" src="https://github.com/user-attachments/assets/4120049e-7aa7-4901-a924-74334a9e07c9" />
+
+O fluxo parte da coleta estruturada de informações pelo **Agente Entrevistador**,
+passa pela construção do **Perfil Estruturado** e segue para o **Agente Planejador**,
+responsável pela geração do plano de desenvolvimento profissional.
+
+---
+
 # Arquitetura dos Agentes
 
 🧩 Agente 1 — Entrevistador de Carreira
