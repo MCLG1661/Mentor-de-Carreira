@@ -122,7 +122,7 @@ O agente:
 
 ## ⚙️ Princípios de Design
 
-1. Separação de Responsabilidades
+1. Separação de Responsabilidades 
 
 Cada agente executa uma função específica:
 
